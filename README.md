@@ -1,16 +1,17 @@
-### Hi there 👋
+Full stack developer specializing in high performance, instant loading React micro frontend thin client, with mandatory support from the custom designed Redis backend-for-frontend architecture, optimized for low latency by streaming via web sockets, calling the FAAS microservice layer.
 
-<!--
-**andraz/andraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,redis,tailwind,aws,azure,figma,css,git,vscode,svg,ai,ps,materialui,emotion,git,nginx,html,kubernetes,grafana,docker,vim,gcp,firebase&perline=12" />
+  </a>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a crazy top secret blockchain project in cooperation with a corporation half way around the world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning how to optimize front end UX even more than humanly possible, and then some more.
+
+- 👯 I’m looking to collaborate on metaverse projects.
+
+- 💬 Ask me about any of the icons you can recognize above.
+ 
+- 📫 How to reach me: andraz.kos@gmail.com
+  
+- ⚡ Fun fact: I'm less scary in video calls.
