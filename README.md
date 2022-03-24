@@ -4,7 +4,7 @@ Full stack developer specializing in high performance, instant loading React mic
     <img src="https://skillicons.dev/icons?i=react,nodejs,redis,tailwind,aws,azure,figma,css,git,vscode,svg,ai,ps,materialui,emotion,git,nginx,html,kubernetes,grafana,docker,vim,gcp,firebase&perline=12" />
   </a>
 
-- 🔭 I’m currently working on a crazy top secret blockchain project in cooperation with a corporation half way around the world.
+- 🔭 I’m currently working on a top secret blockchain project in cooperation with a corporation half way around the world.
 
 - 🌱 I’m currently learning how to optimize front end UX even more than humanly possible, and then some more.
 
