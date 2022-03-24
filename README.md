@@ -1,4 +1,4 @@
-Full stack developer specializing in high performance, instant loading React micro frontend thin client, with mandatory support from the custom designed Redis backend-for-frontend architecture, optimized for low latency by streaming via web sockets, calling the FAAS microservice layer.
+Full stack developer specializing in high performance, instant loading React micro frontend thin clients, with mandatory support from the custom designed Redis backend-for-frontend architecture, optimized for low latency by streaming via web sockets, calling the FAAS microservice layer.
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,redis,tailwind,aws,azure,figma,css,git,vscode,svg,ai,ps,materialui,emotion,git,nginx,html,kubernetes,grafana,docker,vim,gcp,firebase&perline=12" />
