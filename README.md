@@ -8,7 +8,7 @@ Full stack developer specializing in high performance, instant loading React mic
 
 - 🌱 I’m currently learning how to optimize front end UX even more than humanly possible, and then some more.
 
-- 👯 I’m looking to collaborate on metaverse projects.
+- 👯 I’m looking to collaborate on AI projects.
 
 - 💬 Ask me about any of the icons you can recognize above.
  
