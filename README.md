@@ -1,4 +1,6 @@
-Full stack developer specializing in high performance, instant loading React micro frontend thin clients, with mandatory support from the custom designed Redis backend-for-frontend architecture, optimized for low latency by streaming via web sockets, calling the NodeJS based FAAS microservice layer.
+# AI Engineer with decades of Full Stack experience
+
+Specializing in high performance, instant loading React micro frontend thin clients, with mandatory support from the custom designed Redis backend-for-frontend architecture, optimized for low latency by streaming via web sockets, calling the NodeJS based FAAS microservice layer.
 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nodejs,redis,tailwind,aws,azure,figma,css,git,vscode,svg,ai,ps,materialui,emotion,git,nginx,html,kubernetes,grafana,docker,vim,gcp,firebase&perline=12" />
@@ -8,7 +10,7 @@ Full stack developer specializing in high performance, instant loading React mic
 
 - 🌱 I’m currently learning how to optimize front end UX even more than humanly possible, and then some more.
 
-- 👯 I’m looking to collaborate on AI projects.
+- 👯 Specializing in Prompt Engineering on **open source** Large Language Models.
 
 - 💬 Ask me about any of the icons you can recognize above.
  
