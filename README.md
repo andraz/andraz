@@ -1,4 +1,4 @@
-# AI Engineer with decades of Full Stack experience
+# AI Agent Engineer with decades of Full Stack experience
 
 Specializing in high performance, instant loading React micro frontend thin clients, with mandatory support from the custom designed Redis backend-for-frontend architecture, optimized for low latency by streaming via web sockets, calling the NodeJS based FAAS microservice layer.
 
@@ -10,7 +10,7 @@ Specializing in high performance, instant loading React micro frontend thin clie
 
 - 🌱 I’m currently learning how to optimize front end UX even more than humanly possible, and then some more.
 
-- 👯 Specializing in Prompt Engineering on **open source** Large Language Models.
+- 👯 Specializing in AI Agent Prompt Engineering on **open source** Large Language Models.
 
 - 💬 Ask me about any of the icons you can recognize above.
  
