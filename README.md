@@ -1,19 +1,15 @@
 # AI Agent Engineer with decades of Full Stack experience
 
-Specializing in high performance, instant loading React micro frontend thin clients, with mandatory support from the custom designed Redis backend-for-frontend architecture, optimized for low latency by streaming via web sockets, calling the NodeJS based FAAS microservice layer, superpowered by strategically designed AI Agent flows.
+Specializing in React micro frontend thin clients optimized for zero latency UX streaming via web sockets, calling custom built services in NodeJS based backend for frontend microservice layer, superpowered by strategically designed flows of data between agentic systems.
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,py,azure,figma,redis,vscode,tailwind,sentry,tensorflow,bash,aws,css,git,svg,materialui,nginx,kubernetes,grafana,docker,vim,gcp,firebase,graphql&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,docker,aws,azure,gcp,redis,figma,vscode,tailwind,vite,mongodb,discord,elasticsearch,rabbitmq,git,svg,nginx,grafana,kubernetes,vim,python,graphql&perline=12" />
   </a>
 
-- 🔭 I’m currently working on a top secret blockchain project in cooperation with a corporation half way around the world.
+- ✨ Growing the infinite [AgentFlow UI](https://github.com/andraz/AgentFlow) landscape, tailor made for visual R&D of data flows between Large Language Models.
 
-- 🌱 I’m currently learning how to optimize front end UX even more than humanly possible, and then some more.
+- 🪄 Fine tuning the [Agent.js backend](https://github.com/andraz/Agent.js) service layer of AgentFlow to feel like one with the front end.
 
-- 👯 Specializing in AI Agent Flow Engineering on **open source** Large Language Models.
-
-- 💬 Ask me about any of the icons you can recognize above.
+- 🌱 Researching how to optimize the [React Flow](https://reactflow.dev/) node-based UX even more than humanly possible.
  
-- 📫 How to reach me: andraz.kos@gmail.com
-  
-- ⚡ Fun fact: I'm less scary in video calls.
+- 💬 How to reach me: https://discord.gg/XGDPRY3S
